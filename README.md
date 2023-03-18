@@ -1,2 +1,2 @@
 # FirstRepo
-Ini adalah Repository pertama dibuat dari PC Lokal
+Repository baru  dari PC Lokal
